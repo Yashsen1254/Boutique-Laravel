@@ -1,0 +1,12 @@
+ <script src="{{url('Backend/Assests/plugins/jquery/jquery-3.4.1.min.js')}}"></script>
+        <script src="https://unpkg.com/@popperjs/core@2"></script>
+        <script src="{{url('Backend/Assests/plugins/bootstrap/js/bootstrap.min.js')}}"></script>
+        <script src="https://unpkg.com/feather-icons"></script>
+        <script src="{{url('Backend/Assests/plugins/perfectscroll/perfect-scrollbar.min.js')}}"></script>
+        <script src="{{url('Backend/Assests/plugins/pace/pace.min.js')}}"></script>
+        <script src="{{url('Backend/Assests/plugins/apexcharts/apexcharts.min.js')}}"></script>
+        <script src="{{url('Backend/Assests/plugins/sparkline/jquery.sparkline.min.js')}}"></script>
+        <script src="{{url('Backend/Assests/js/main.min.js')}}"></script>
+        <script src="{{url('Backend/Assests/js/pages/dashboard.js')}}"></script>
+        <script src="{{url('Backend/Assests/plugins/DataTables/datatables.min.js')}}"></script>
+        <script src="{{url('Backend/Assests/js/pages/datatables.js')}}"></script>

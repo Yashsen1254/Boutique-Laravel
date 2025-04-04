@@ -1,0 +1,5 @@
+@include('Backend.Layout.header')
+@include('Backend.Layout.nav')
+@yield('content')
+@include('Backend.Layout.side')
+@include('Backend.Layout.script')
